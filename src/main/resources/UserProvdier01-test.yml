@@ -16,4 +16,4 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
-ProviderVersion: UserProvider001:7.7.7V
+ProviderVersion: UserProvider001:7.7.88V
